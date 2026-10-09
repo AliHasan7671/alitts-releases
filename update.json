@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "title": "Ali TTS Studio v1.0.0",
+  "is_critical": true,
+  "changelog": "Initial release of Ali TTS Studio.",
+  "download_url": "",
+  "installer_name": "AliTTS-Setup-1.0.0.exe",
+  "release_date": "2026-10-09",
+  "release_url": "https://github.com/AliHasan7671/alitts-releases"
+}
